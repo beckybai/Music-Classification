@@ -1,0 +1,1 @@
+./build/tools/caffe test --model=./examples/music/rcnn/rnnwholetest.prototxt --weights=music_3+1+1_iter_10000.caffemodel --iterations 3000
